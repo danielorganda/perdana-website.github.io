@@ -44,5 +44,9 @@ p {
 }
 
 .bawah {
-	text-align: right;
+	text-align: left;
+}
+
+.div link {
+	margin-left: 20;
 }
